@@ -11,7 +11,7 @@ export const Head = ({ data: { confirmed, recovered, deaths, lastUpdate}, countr
         <div className="header">
             <div className="dis">
                 <h1 className="h1">Covid-19 tracker App!</h1>
-                <p>fetching data from api using axios</p>
+                {/* <p>fetching data from api using axios</p> */}
                 <img className="j" src={Image} alt="pics" />
                
             </div>
