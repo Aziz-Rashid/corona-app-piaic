@@ -1,0 +1,37 @@
+
+.h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 30px;
+    text-shadow: 2px 2px 2px blue;
+}
+.body{
+    /* border: 2px solid black; */
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+.a{
+    font-size: 35px;
+    /* background-color: burlywood; */
+    margin-top: 20px;
+}
+.j{
+    width: 300px;
+    height: 150px;
+    margin: 30px;
+}
+.dis{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.q{
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 2px blue;
+}
+.im{
+    width: 50%;
+    height: 300px;
+}
